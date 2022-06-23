@@ -99,7 +99,7 @@ button {
 .site-title a {
   color: #707070;
   font-size: 4rem;
-  font-family: Bistro Script;
+  font-family: 'Dancing Script', cursive;
   font-weight: bold;
   line-height: 80px;
 }
@@ -166,7 +166,7 @@ button {
   right: 10%;
 }
 .catch-copy-text {
-  font-family: Bistro Script;
+  font-family: 'Dancing Script', cursive;
   font-weight: bold;
   font-size: 6rem;
 }
